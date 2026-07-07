@@ -8,6 +8,7 @@ export default function HomePage() {
       <p style={{ color: '#6b7280' }}>
         Bienvenido a una app de router.
       </p>
+      <p>Autor: Diego Calderon</p>
     </div>
   )
 }
